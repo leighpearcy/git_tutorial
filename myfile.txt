@@ -1,0 +1,5 @@
+Hello my name is Leigh and I am a grad student.
+
+I am learning Git with my 681 class.
+
+Hoorah!
