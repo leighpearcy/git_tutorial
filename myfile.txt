@@ -1,5 +1,7 @@
-Hello my name is Leigh and I am a grad student.
+Hey my name is Leigh and I am a grad student.
 
-I am learning Git with my 681 class.
+I am learning Git with my 681 class with Christopher Strickland.
 
-Hoorah!
+Here is a new line!
+Here is another new line.
+More edits last minute!
